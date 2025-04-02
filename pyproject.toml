@@ -1,0 +1,11 @@
+[project]
+name = "morse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=1.20.0",
+    "pygame>=2.6.1",
+    "sounddevice>=0.4.1",
+]
